@@ -244,7 +244,7 @@ http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="Indian Bangla",Zee Bangla HD
 http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Star Jalsha 2
-https://cdn.naturalbd.com/j-star-jalsha/tracks-v1a1/mono.m3u8
+http://103.106.243.163:8181//19/index.m3u8?token=d4bb0f351ce68df3fc5c4ad9ff9f910a7868aa56-a63482e4da8cf64738fb8a8aa3008fbc-1624881337-1624870537&remote=43.250.83.73
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
 
