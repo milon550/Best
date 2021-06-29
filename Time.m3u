@@ -270,6 +270,12 @@ http://103.81.104.118/hls/stream38.m3u8
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi" ,Sony Wah
 https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-utsav-logopedia-fandom-star-utsav-movies-png-1500_1700.png" group-title="Hindi" ,STAR_UTSAV
+http://89.41.180.253:8080/INDIA_HINDI/STAR_UTSAV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi" ,STAR_BHARAT_HD
+http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="" group-title="Hindi",Sony Sab
 https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -328,6 +334,8 @@ http://103.81.104.118/hls/stream12.m3u8
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="Sports" ,Star Sports HD 2
 http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="Sports" ,Star Sports HD 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" group-title="Sports" group-title="Sports" ,Sony Ten 2 HD
