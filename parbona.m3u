@@ -73,6 +73,86 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/asiantv.png" group-title="ICC",ASIAN TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/atnbangla.png" group-title="ICC",ATN BANGLA
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/atnnews.png" group-title="ICC",ATN NEWS
+http://10.16.100.205/hls/news_atn_london720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="ICC",BANGLA TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglavision.png" group-title="ICC",BANGLA VISION
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/bijoytv(1).png" group-title="ICC",BIJOY TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/channel24.png" group-title="ICC",CHANNEL 24
+http://10.16.100.205/hls/ch24.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/channeli.png" group-title="ICC",CHANNEL I
+http://10.16.100.205/hls/ch_i.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/dbcnews(1).png" group-title="ICC",DBC NEWS
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="ICC",JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/deeptotv.png" group-title="ICC",DEEPTO TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/digibangla24.png" group-title="ICC",DIGI BANGLA 24 HD
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ekattortv.png" group-title="ICC",EKATTOR.TV
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ekusheytv(1).png" group-title="ICC",ETV
+http://10.16.100.205/hls/21etv.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/mohona(3).png" group-title="ICC",MOHONA TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/mytv.jpg" group-title="ICC",MY TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ntv(1).png" group-title="ICC",NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="ICC",NAGORIK TV
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/deshtv(1).png" group-title="ICC",DESH.TV
+http://10.16.100.205/hls/des_tv_local480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC",
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/colorsbangla.png" group-title="ICC",COLORS BANGLA
+http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sonyaath(1).png" group-title="ICC",Sony Aath
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/starjalsha.png" group-title="ICC",STAR JALSHA
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/zeebangla.png" group-title="ICC",ZEE BANGLA
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/andtv.png" group-title="ICC",AND TV
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/colors.png" group-title="ICC",COLORS
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sony.png" group-title="ICC",SONY TV
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/starplus.png" group-title="ICC",STAR PLUS
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/zeetv.png" group-title="ICC",ZEE TV
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/andpictureshd.png" group-title="ICC",AND PICTURES HD
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/wowcinema.png" group-title="ICC",WOW CINEMA
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" group-title="ICC",GAANBANGLA
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sonysixhd(2).png" group-title="ICC",SONY SIX
+http://10.16.100.207:8082/sports/sony_six_uk.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sonysixhd(2).png" group-title="ICC",SONY SIX
+http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sonysixhd(2).png" group-title="ICC",SONY SIX
+http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sonysixhd(2).png" group-title="ICC",SONY SIX
+http://10.16.100.203:8082/bangla/sony6_TV_bkp.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sonyten1hd(1).png" group-title="ICC",SONY TEN 1 HD
+http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ten2(4).png" group-title="ICC",SONY TEN 2 HD
+http://10.16.100.203:8082/bangla/ten_2_720.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="ICC",
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="ICC",
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 
 
@@ -112,6 +192,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zoom
 http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,Pop Pataka
+https://live.hungama.com/linear/pop-pataka/playlist_144p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
