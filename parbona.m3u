@@ -120,13 +120,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla", spny aath 2 
-https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-1-Hindi-HD-Logo.jpg" group-title="Sports",Star Sports 1 Hindi
 https://5opm.vkcdn5.com/hls/ipl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Bangla", Discovery Kids
@@ -156,6 +149,8 @@ http://tv2.ebox.live:8080/live/dbc.m3u8
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Ebox-BDIX (সবার চলবে না)", Gaan Bangla
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg"Ebox-BDIX (সবার চলবে না)",Masranga Tv
+http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Ebox-BDIX (সবার চলবে না)", Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Ebox-BDIX (সবার চলবে না)", Zee Bangla
@@ -180,6 +175,8 @@ http://tv2.ebox.live:8080/live/colors.m3u8
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Gold
 http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Gold Sel
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Ebox-BDIX (সবার চলবে না)", Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Ebox-BDIX (সবার চলবে না)", Sony Max HD
@@ -196,6 +193,8 @@ http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="Ebox-BDIX (সবার চলবে না)", Animal Planet HD
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/discovery-bangla-hd.jpg" group-title="Ebox-BDIX (সবার চলবে না)"Discovery hd bangla
+http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Ebox-BDIX (সবার চলবে না)", National Geographic
 http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljJigN2.png" group-title="Ebox-BDIX (সবার চলবে না)", Sony ESPN
@@ -206,6 +205,12 @@ http://tv2.ebox.live:8080/live/sonysix.m3u8
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Ebox-BDIX (সবার চলবে না)", Sony Ten 2 HD
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="Ebox-BDIX (সবার চলবে না)", Sony Ten 3 HD
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 tvg-logo="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2016/08/tensports-1472633498.jpg" group-title="Ebox-BDIX (সবার চলবে না)",
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 tvg-logo="http://kooora4you.com/images/min/sky-cricket.png" group-title="Ebox-BDIX (সবার চলবে না)",Sky Sports Cricket
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Ebox-BDIX (সবার চলবে না)", Willow HD
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Ebox-BDIX (সবার চলবে না)", PTV Sports
