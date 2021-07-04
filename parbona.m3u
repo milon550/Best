@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV
 http://103.106.243.163:8181/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",T Sports 2
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Ntv
